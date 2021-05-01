@@ -1,0 +1,3 @@
+[submodule "notebooks/russian_drama"]
+	path = notebooks/russian_drama
+	url = git@github.com:AsciiShell/Thesis_Russian_Drama.git
